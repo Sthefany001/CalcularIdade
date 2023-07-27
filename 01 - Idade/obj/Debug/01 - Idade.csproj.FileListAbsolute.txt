@@ -1,0 +1,11 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\bin\Debug\01 - Idade.exe.config
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\bin\Debug\01 - Idade.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\bin\Debug\01 - Idade.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\_01___Idade.Form1.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\_01___Idade.Properties.Resources.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.csproj.GenerateResource.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\01 - Idade\01 - Idade\obj\Debug\01 - Idade.pdb
