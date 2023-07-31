@@ -26,15 +26,14 @@ namespace _01___Idade
         private void button1_Click(object sender, EventArgs e)
         {
             DateTime dataNasc = dateTimePicker1.Value;
-            //int idade = DateTime.Today.Year - dataNasc.Year;
 
-            TimeSpan diasIdade = dataNasc.Subtract(DateTime.Today);
+            TimeSpan diasIdade = DateTime.Today.Subtract(dataNasc); /* Subtract == - */
             //label2.Text = diasIdade.Days.ToString();
 
             double idadeOfc = diasIdade.Days / 365.2425;
-            idadeOfc = Math.Floor(idadeOfc) * (-1);
-            label2.Text = idadeOfc.ToString("0");
-            
+            int idade = (int)Math.Floor(idadeOfc);
+
+            label2.Text = idade.ToString();
         }
     }
 }
